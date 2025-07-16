@@ -4,7 +4,7 @@ import personImg from "../../assets/person2.png";
 const Hero = () => {
   return (
     <>
-      <main className="w-full bg-secondary dark:bg-gray-900 dark:text-white">
+      <main id="home" className="w-full bg-secondary dark:bg-gray-900 dark:text-white">
         <div className="container grid grid-cols-1 sm:grid-cols-2 items-center space-y-2 py-12 sm:py-0 sm:h-[600px]">
           <div>
             <div className="space-y-2 grid justify-items-center sm:justify-items-start">

@@ -20,7 +20,7 @@ const Contact = () => {
             <div className="text-slate-500">
               
               <div>
-                <a href="/amit_anand_frontend_developer_resume.pdf" download className="primary-btn inline-block my-6 mr-6">
+                <a href="/portfolio/amit_anand_frontend_developer_resume.pdf" download className="primary-btn inline-block my-6 mr-6">
                   {" "}
                   Download Resume
                 </a>

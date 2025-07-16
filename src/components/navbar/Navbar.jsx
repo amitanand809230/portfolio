@@ -5,11 +5,11 @@ import { BiSolidMoon, BiSolidSun } from "react-icons/bi";
 const navMenus = [
   {
     name: "Home",
-    link: "/#home",
+    link: "#home",
   },
   {
     name: "About",
-    link: "/#about",
+    link: "#about",
   },
   {
     name: "Services",

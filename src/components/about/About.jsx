@@ -35,7 +35,7 @@ const About = () => {
               </p>
               <div>
                 <a
-                  href="/amit_anand_frontend_developer_resume.pdf"
+                  href="/portfolio/amit_anand_frontend_developer_resume.pdf"
                   download
                   className="primary-btn inline-block my-6 mr-6"
                 >
@@ -53,7 +53,6 @@ const About = () => {
         </div>
       </section>
 
-      {/* Horizontal Line */}
       <hr className="border-t border-gray-300 dark:border-gray-600 w-[90%] mx-auto my-8" />
     </>
   );
