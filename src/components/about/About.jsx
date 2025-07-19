@@ -35,9 +35,9 @@ const About = () => {
               </p>
               <div>
                 <a
-                  href="/portfolio/amit_anand_frontend_developer_resume.pdf"
-                  download
-                  className="primary-btn inline-block my-6 mr-6"
+                  href="/portfolio/amit_anand_resume_2025.pdf?v=2" 
+                  download 
+                  className="primary-btn inline-block my-6 mr-6" 
                 >
                   Download Resume
                 </a>
